@@ -9,8 +9,8 @@ class PredictPipeline:
     
     def predict(self, features):
         try:
-            model_path="artifacts\model.pkl"
-            preprocessor_path='artifacts\proprocessor.pkl'
+            model_path="artifacts/model.pkl"
+            preprocessor_path='artifacts/proprocessor.pkl'
             model=load_object(model_path)
             preprocessor=load_object(preprocessor_path)
             data_scaled=preprocessor.transform(features)
