@@ -94,5 +94,4 @@ Contributions are welcome! Please open an issue or submit a pull request to impr
 ## Connect
 Connect with me on [LinkedIn](https://www.linkedin.com/in/vishalsinghblr/)
 
---
 Feel free to raise any issues or suggestions in the repository's **Issues** tab.
