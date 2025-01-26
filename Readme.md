@@ -1,7 +1,5 @@
 
-# Student Math Score Predictor
-
-##  [Live](http://studentperformance-env.eba-5cgkamrs.eu-north-1.elasticbeanstalk.com/)
+# Student Math Score Predictor [Live](http://studentperformance-env.eba-5cgkamrs.eu-north-1.elasticbeanstalk.com/)
 
 ## Project Overview
 This repository contains the implementation of a **web-based application** to predict students' math scores using various machine learning algorithms. The tool is designed to help educators, administrators, and parents understand potential academic outcomes based on demographic and performance factors.
