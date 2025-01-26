@@ -83,12 +83,7 @@ MLPROJECT
 The project is deployed using various deployment techniques:
 
 - [For Deployment Using AWS Beanstalk & Code Pipeline](https://github.com/vishalsinghblr/AWS-Deployment-EBN-CP)
-
-
-## Notebooks
-- **1. EDA STUDENT PERFORMANCE.ipynb**: Exploratory Data Analysis on the dataset.
-- **2. MODEL TRAINING.ipynb**: Training machine learning models and tuning hyperparameters.
-
+  
 ## Logs
 All training and application logs are stored in the `logs` folder for debugging and analysis.
 
@@ -102,4 +97,5 @@ Contributions are welcome! Please open an issue or submit a pull request to impr
 Connect with me on [LinkedIn](https://www.linkedin.com/in/vishalsinghblr/).
 
 ---
+
 Feel free to raise any issues or suggestions in the repository's **Issues** tab.
