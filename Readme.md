@@ -1,5 +1,7 @@
 
-# Student Exam Performance Indicator: Math Score Predictor
+# Student Math Score Predictor
+
+##  [Live]()
 
 ## Project Overview
 This repository contains the implementation of a **web-based application** to predict students' math scores using various machine learning algorithms. The tool is designed to help educators, administrators, and parents understand potential academic outcomes based on demographic and performance factors.
@@ -78,16 +80,10 @@ MLPROJECT
    Access the app at `http://127.0.0.1:5000`.
 
 ## Deployment
-The project is deployed on **AWS Elastic Beanstalk**. To deploy:
-1. Install the Elastic Beanstalk CLI.
-2. Initialize the environment:
-   ```bash
-   eb init
-   ```
-3. Deploy the application:
-   ```bash
-   eb deploy
-   ```
+The project is deployed using various deployment techniques:
+
+- [For Deployment Using AWS Beanstalk & Code Pipeline](https://github.com/vishalsinghblr/AWS-Deployment-EBN-CP)
+
 
 ## Notebooks
 - **1. EDA STUDENT PERFORMANCE.ipynb**: Exploratory Data Analysis on the dataset.
@@ -102,9 +98,8 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request to improve this project.
 
-## Author
-[Your Name](https://github.com/yourusername)  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile/).
+## Connect
+Connect with me on [LinkedIn](https://www.linkedin.com/in/vishalsinghblr/).
 
 ---
 Feel free to raise any issues or suggestions in the repository's **Issues** tab.
