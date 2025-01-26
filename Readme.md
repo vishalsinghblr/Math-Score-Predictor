@@ -94,7 +94,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 Contributions are welcome! Please open an issue or submit a pull request to improve this project.
 
 ## Connect
-Connect with me on [LinkedIn](https://www.linkedin.com/in/vishalsinghblr/).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/vishalsinghblr/)
 
 ---
 
